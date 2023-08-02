@@ -14,6 +14,6 @@ Inicializar um repositório  (executado dentro da pasta)
 
 git init
 
-Verificar o status atualdo repositório 
+Verificar o status atual do repositório 
 
 git status
