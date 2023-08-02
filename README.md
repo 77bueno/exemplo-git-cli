@@ -30,3 +30,12 @@ Verificar o status atual do repositório
 `git status`
 
 Verificar o status atual do repositório
+
+`git status`
+
+Adicionar (tornar o arquivo rastreável) ao monitoramento do git.
+
+`git commit -m "Texto da mensagem sobre esta alteração"`
+
+Fazer commit das alterações (salvar no histórico).
+
